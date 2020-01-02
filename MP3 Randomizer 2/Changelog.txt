@@ -1,0 +1,72 @@
+﻿MP3 RANDOMIZER 2 - Alpha (Private, only Pitp0 had access to this one)
+*********************************
+ ----------------------------------------------------------------------------------------------------------------------
+
+MP3 RANDOMIZER 2 - BETA 1 
+*********************************
+
+Never released?
+
+ ----------------------------------------------------------------------------------------------------------------------
+
+MP3 RANDOMIZER 2 - BETA 2
+*********************************
+
+Release
+
+ ----------------------------------------------------------------------------------------------------------------------
+
+ MP3 RANDOMIZER 2 - BETA 3
+*********************************
+
+Additions:
+- Progress bar
+
+Changes:
+ - Pressing the 'Select Path' button now automatically browses to the selected path (if applicable)
+
+ Bugfix
+- Fixed bug where the tool would not start properly when CPU load is high
+
+  ----------------------------------------------------------------------------------------------------------------------
+
+ MP3 RANDOMIZER 2 - BETA 4
+*********************************
+
+Changes:
+	- Added Warning when closing application if not all songs are re-ordered yet
+	- Songs will now automatically be reset if path is being changed
+	- Viewing file details will now mark songs with invalid file names too (like 1.mp3)
+	- Tool will now ask the user to restart the game if it is being started when the game is already running (this is optional)
+	
+
+Bugfixes:
+	- Fixed bug where the progress bar would stretch too wide
+
+----------------------------------------------------------------------------------------------------------------------
+
+ MP3 RANDOMIZER 2 - BETA 5
+*********************************
+
+Changes:
+	- Added 'randomize everything but first song' option
+
+	----------------------------------------------------------------------------------------------------------------------
+
+ MP3 RANDOMIZER 2 - BETA 6
+*********************************
+
+Changes:
+	- Fixed the second shuffle mode, ordering now happens correctly, and starts at 1 like all other modes
+	- Fixed shuffle mode 3 - only randomize first song - (it was broken)
+	- Enabled text wrapping in the FileViewer form
+	- Removed some unneccesary code
+
+	----------------------------------------------------------------------------------------------------------------------
+
+ MP3 RANDOMIZER 2 - FULL RELEASE 1.0 ?
+*********************************
+
+Changes:
+	- Refactored code to make it more maintainable and removed quite a bit of code
+	- ! Changed update checker to my own website since dropbox will no longer support this in March 2017
