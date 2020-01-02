@@ -925,7 +925,7 @@ namespace MP3_Randomizer_2
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
             MessageBox.Show(
-                "© 2015-2017\r\nMade by Earleys, first tested by Pitp0.\r\n\r\nMessage me on #GTA or Twitch if you need help/want things added.\r\n\r\nKnown so far:\r\n- No SA Steam version works properly, except for the default 1.0 version.\r\n- Game might not be recognized with a renamed .exe file (not really a bug, but useful to know)",
+                "© 2015-2020\r\nMade by Earleys, first tested by Pitp0.\r\n\r\nMessage me on #GTA, Twitch or Discord if you need help/want things added.\r\n\r\nKnown so far:\r\n- No SA Steam version works properly, except for the default 1.0 version.\r\n- Game might not be recognized with a renamed .exe file (not really a bug, but useful to know)",
                 "About");
 
         }
